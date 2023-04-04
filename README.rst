@@ -1,3 +1,9 @@
+ni-302 updateed pafy for YouTube's new dislike system.
+
+Please use `pip install git+https://github.com/ni-302/pafy-can-use-in-2023` if you want use this.
+
+--------
+
 .. image:: https://img.shields.io/pypi/v/Pafy.svg
     :target: https://pypi.python.org/pypi/pafy
 .. image:: https://img.shields.io/pypi/dm/Pafy.svg
